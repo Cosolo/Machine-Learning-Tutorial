@@ -8,4 +8,4 @@ The idea is that this set of notebooks becomes my cheat - sheets for basic ML al
 
 ## Overview
 
-1. [Introduction to ML, DL, AI](Machine-Learning-Tutorial/Machine Learning, Deep Learning, AI - INFO.ipynb)
+1. [Introduction to ML, DL, AI](https://github.com/Cosolo/Machine-Learning-Tutorial/blob/master/Machine%20Learning%2C%20Deep%20Learning%2C%20AI%20-%20INFO.ipynb)

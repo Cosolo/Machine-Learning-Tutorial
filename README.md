@@ -21,5 +21,6 @@ Each notebook contains:
 7. [Naive Bayes](https://github.com/Cosolo/Machine-Learning-Tutorial/blob/master/Naive%20Bayes.ipynb)
 8. [Random Forest](https://github.com/Cosolo/Machine-Learning-Tutorial/blob/master/Random%20Forest.ipynb)
 9. [Support Vector Machines](https://github.com/Cosolo/Machine-Learning-Tutorial/blob/master/Support%20Vector%20Machines.ipynb)
+10. [Scikit Learn](https://github.com/Cosolo/Machine-Learning-Tutorial/blob/master/Scikit%20Learn.ipynb)
 
 I hope someone will find it useful!
